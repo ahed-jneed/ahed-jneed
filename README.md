@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ahed Jneed and i'm 19 years old.
+- 👋 Hi, I’m Ahed Jneed and i'm 20 years old.
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently mastering Computer Vision
 - 📫 you can reach me on this E-Mail: ahedjneed.businees@gmail.com
 
 <!---
